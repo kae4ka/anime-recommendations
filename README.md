@@ -9,7 +9,7 @@ It contains different tops:
   * Top of the most unambiguous titles (includes Kimi no Nawa and Fullmetal Alchemist: Brotherhood that is really logical in my opinion)
   * Top of the most popular genres 
   * Top of genres with the highest rating (Comedy, School, Slice of Life)
-# Results
+# Results 🏅
 ### Top titles by happiness rate 🥰
 | English name | Russian Name | Rating | Happiness per minute |
 | ----------- | ----------- |----------- |----------- |
@@ -28,5 +28,13 @@ It contains different tops:
 | Code Geass: Hangyaku no Lelouch | Код Гиас: Восставший Лелуш | 8.83 | 7.78 |
 | Angel Beats! | Ангельские ритмы! | 8.39 | 7.78 |
 
-# Future
+### The most popular genres 📊
+1. Comedy (комедия) - 1️⃣ 1️⃣ %
+2. Action (экшен) - 9️⃣ %
+3. Drama (драма) - 8️⃣ %
+4. Shounen (сёнен) - 7️⃣ %
+5. Romance (романтика) - 5️⃣ %
+6. Supernatural (сверхъестественное) - 5️⃣ %
+
+# Future :shipit:
 I'm looking forward to building a recommendation system using this dataset. Also, making a clusterization is in my plans. 🎯
